@@ -1,10 +1,9 @@
 ---
-title: "Page3"
+title: "life"
 output:
   html_document:
     df_print: paged
 ---
 
-**Computing and Programming for Environmental Research (ESE5023)**  
-https://zhu-group.github.io/ese5023  
+<img src="figs/xiaoxin.jpeg" alt="drawing" width="400"/>
 

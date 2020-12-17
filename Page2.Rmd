@@ -1,5 +1,5 @@
 ---
-title: "Page2"
+title: "Code"
 output:
   html_document:
     df_print: paged
