@@ -6,15 +6,16 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Page1"
+    - text: "examples"
       href: Page1.html
-    - text: "Page2"
+    - text: "Code"
       href: Page2.html
-    - text: "Page3"
+    - text: "life"
       href: Page3.html      
-    - text: "Page4"
+    - text: "Papers"
       menu:
-        - text: "Page4.1"
+        - text: "Estimating the Columnar Concentrations of Black Carbon Aerosols
+in China Using MODIS Products"
           href: Page4.1.html
         - text: "Page4.2"
           href: Page4.2.html

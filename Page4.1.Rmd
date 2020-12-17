@@ -5,6 +5,11 @@ output:
     df_print: paged
 ---
 
-**Computing and Programming for Environmental Research (ESE5023)**  
-https://zhu-group.github.io/ese5023  
+**paper from the Bao fang wen **  
+Estimating the Columnar Concentrations of Black Carbon Aerosols
+in China Using MODIS Products**(https://pubs.acs.org/doi/10.1021/acs.est.0c00816)
+[paper](https://stilflip.github.io/web_test/paper/acs.est.0c00816.pdf)
+
+
+
 
